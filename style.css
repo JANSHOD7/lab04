@@ -1,0 +1,31 @@
+
+h1{
+    color:black;
+    font-family: sans-serif;
+    font-size: 100px;
+    text-align: center;
+    background-image: url("paper2.jpg");
+    border-radius:50px ;
+    text-decoration: line-through;
+
+}
+    p { 
+        text-align: center; 
+        color: red; 
+        font-size: 40px;
+        background-image: url("paper.jfif");
+    }
+h2{
+    font-size: 40px;
+    border:dotted;
+    border-radius: 10px;
+    text-align: center;
+    background-color: beige;
+    color: rgba(0, 139, 0, 0.514);
+}
+ul{
+    list-style-position:inside;
+    list-style-type: square;
+    color:blue
+
+}
